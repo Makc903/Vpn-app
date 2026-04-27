@@ -1,0 +1,1 @@
+Upload to GitHub and run Actions to get APK.
